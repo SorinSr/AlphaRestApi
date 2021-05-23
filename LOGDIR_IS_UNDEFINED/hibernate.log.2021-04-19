@@ -1,0 +1,50 @@
+2021-04-19 17:36:42 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-19 17:36:43 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 17:36:43 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 17:36:44 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-04-19 17:36:45 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-19 17:39:09 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-19 17:39:09 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 17:39:10 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 17:39:11 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-04-19 17:39:12 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-19 18:07:11 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-19 18:07:11 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 18:07:11 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 18:07:13 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-04-19 18:07:14 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-19 18:20:50 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-19 18:20:50 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 18:20:51 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 18:20:52 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-04-19 18:20:53 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-19 18:25:34 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-19 18:25:34 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 18:25:34 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 18:25:36 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-04-19 18:25:37 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-19 18:32:38 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-19 18:32:38 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 18:32:38 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 18:32:39 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-04-19 18:32:41 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-19 18:34:22 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-19 18:34:23 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 18:34:23 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 18:34:24 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-04-19 18:34:25 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-19 18:55:28 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-19 18:55:28 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 18:55:28 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 18:55:29 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-04-19 18:55:31 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-19 18:59:25 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-19 18:59:25 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 18:59:26 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 18:59:27 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-04-19 18:59:28 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-19 19:03:46 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-19 19:03:46 - HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 19:03:46 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 19:03:47 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-04-19 19:03:49 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
